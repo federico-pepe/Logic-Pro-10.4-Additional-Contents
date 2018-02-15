@@ -2,7 +2,7 @@
 How to download and install all the packages required by Logic Pro X 10.4 easily
 
 ## Links
-
+```
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/GarageBandBasicContent.pkg
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_GarageBand6Legacy.pkg
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_IRsSurround.pkg
@@ -659,3 +659,4 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPac
 http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0701_RhythmicCustom.pkg
 http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0702_SoundEffectsCustom.pkg
 http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0703_SoundscapesCustom.pkg
+```
