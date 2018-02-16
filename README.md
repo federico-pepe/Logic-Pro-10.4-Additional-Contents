@@ -1,7 +1,16 @@
 # Logic Pro X 10.4 - Additional Contents
 How to download and install all the packages required by Logic Pro X 10.4 easily
 
-## Links
+## Install a download manager
+The first thing you need to do is to install a *download manager*. [iGetter](http://www.igetter.net) is a good choice but, if you use Firefox, [DownThemAll](https://addons.mozilla.org/it/firefox/addon/downthemall/) is a good alternative.
+
+## Copy, paste, download and install
+These are all the links to the *.pkg* files found in the *.plist* file on [Apple's Servers](http://audiocontentdownload.apple.com/lp10_ms3_content_2016/logicpro1040.plist)
+
+To install all the packages, use [InstallPkg](https://github.com/henri/installpkg) with a command like:
+
+`installpkg /path/to/directory/of/packages/*`
+
 ```
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/GarageBandBasicContent.pkg
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_GarageBand6Legacy.pkg
