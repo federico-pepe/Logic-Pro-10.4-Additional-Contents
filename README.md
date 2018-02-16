@@ -9,7 +9,7 @@ These are all the links to the *.pkg* files found in the *.plist* file on [Apple
 
 To install all the packages, use [InstallPkg](https://github.com/henri/installpkg) with a command like:
 
-`installpkg /path/to/directory/of/packages/*`
+    installpkg /path/to/directory/of/packages/*
 
 ```
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/GarageBandBasicContent.pkg
